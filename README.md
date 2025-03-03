@@ -1,4 +1,4 @@
-# socialMapper
+# SocialMapper
 
 Sample implementation for social phenotyping methods described in
 
@@ -6,4 +6,4 @@ Klibaite, Ugne and Li, Tianqing and Aldarondo, Diego and Akoad, Jumana F. and Ö
 
 Sample data and embedding training files can be found at figshare DOI 10.6084/m9.figshare.24796620
 
-All data will be made available upon publication - sample scripts for individual and social sampling and re-embedding are provided. 
+All data is available at https://dataverse.harvard.edu/dataverse/socialDANNCE_data
