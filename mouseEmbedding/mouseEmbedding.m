@@ -1,5 +1,4 @@
 %% make mouse embedding
-addpath(genpath('/MultiFlyAnalysis_OLD/tSNE'))
 
 sDANNCE_T = readtable('sDANNCE_file_info.xlsx');
 cohort = table2cell(sDANNCE_T(:,1));
