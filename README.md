@@ -6,6 +6,7 @@ This repository refers to 'Mapping the landscape of social behavior' by
 Ugne Klibaite, Tianqing Li, Diego Aldarondo, Jumana F. Akoad, Bence P. Ölveczky, Timothy W. Dunn. 
 
 Here, you will find sample scripts and utilities for performing the behavioral embeddings described in the paper. 
+To get started - check out the mouseEmbedding example for file loading, visualization, and a full example of action and joint behavioral mapping.
 
 For 3D tracking implementation, see: https://github.com/tqxli/sdannce
 
