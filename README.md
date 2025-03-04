@@ -10,11 +10,28 @@ For 3D tracking implementation, see: https://github.com/tqxli/sdannce
 For a multi-camera labeling GUI, see: https://github.com/diegoaldarondo/Label3D
 For data animation, see: https://github.com/diegoaldarondo/Animator
 
-Action mapping refers to single-animal behavior, for example
+ACTION mapping refers to single-animal behavior, for example
+
+Locomotion
+https://github.com/user-attachments/assets/6be9c08f-10f3-4960-98ad-7bd127058a4b
+
+Rearing
+https://github.com/user-attachments/assets/808d60df-5582-4193-b672-956606dce87f
 
 
-https://github.com/user-attachments/assets/025c7472-6b42-465e-958d-c29b439ee60d
+Grooming
+https://github.com/user-attachments/assets/6b0c439c-7706-4433-8249-73bc1e3ff8eb
 
+JOINT mapping refers to social interaction, from the perspective of one animal (multi-color skeleton), for example:
+
+Mutually orienting
+https://github.com/user-attachments/assets/ba3c0f01-9d68-429b-8846-81b26ac0d7a6
+
+Following the social partner
+https://github.com/user-attachments/assets/8e53e0eb-94f5-4bf7-b3a7-cdc97af42678
+
+Mutual interaction during rear
+https://github.com/user-attachments/assets/98a92619-57a7-4f98-9bc5-c479bf1f5269
 
 
 All tracking and behavioral mapping data is available at https://dataverse.harvard.edu/dataverse/socialDANNCE_data
