@@ -1,0 +1,4 @@
+# figshare training files and sample tracks (download separately; see python/README.md)
+/SocialMapperSampleData
+__pycache__/
+*.pyc
