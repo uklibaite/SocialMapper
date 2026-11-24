@@ -56,5 +56,7 @@ All tracking and behavioral mapping data is available at https://dataverse.harva
 
 Additional sample data and embedding training files can be found at figshare DOI 10.6084/m9.figshare.24796620
 
+A Python version of the reembedding and labelling (action and social maps, no MATLAB) is in `python/`; see `python/README.md`.
+
 
 
